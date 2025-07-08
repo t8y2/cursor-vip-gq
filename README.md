@@ -23,8 +23,7 @@
 | ![](./assets/1.jpg) | ![](./assets/2.jpg) | ![](./assets/wxqun.png) |
 
 ## 🪧或许你也有点犹豫，那就看看这封信吧
-[📄 点此查看我们写给用户的那封信](https://gleijfm8le.feishu.cn/docx/WBVCdkHcDozuFqxygWFcOY6hnJf#Vezyd8Sj5ope52xXGRNcuKDTnTh)
-
+<a href="https://gleijfm8le.feishu.cn/docx/WBVCdkHcDozuFqxygWFcOY6hnJf#Vezyd8Sj5ope52xXGRNcuKDTnTh" target="_blank">👉 点此查看我们写给你的一封信 💌</a>
 
 ## 🧩 安装方式（超简单）
 
