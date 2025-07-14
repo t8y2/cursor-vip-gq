@@ -2,7 +2,7 @@
 
 全平台稳定可用，**不限设备登录 + 极速切号 + 无限续杯**，让你体验真正高效流畅的 Cursor 使用体验！
 
-
+简体中文 | [English](./README_EN.md)
 
 ## ✨ 产品亮点
 
@@ -40,8 +40,6 @@
 1. 下载最新版本： [📥 点击下载 macOS 版本](https://gleijfm8le.feishu.cn/docx/WBVCdkHcDozuFqxygWFcOY6hnJf)
 2. 允许执行权限，双击运行
 3. 界面清爽，一键使用！
-
-
 
 ## 📌 使用须知
 
